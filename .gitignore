@@ -1,5 +1,5 @@
 .venv/
-.env/
+.env
 .__pycache__/
 hello.py
 io-warp_results.csv
