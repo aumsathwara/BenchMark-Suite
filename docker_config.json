@@ -1,0 +1,9 @@
+[
+{
+"HostConfig": {
+"Memory": 8589934592,
+"CpuQuota": 0,
+"CpuPeriod": 0
+}
+}
+]
